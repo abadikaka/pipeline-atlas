@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-label="Pipeline Atlas app icon">
+<defs><linearGradient id="tile" x1="0" y1="0" x2=".85" y2="1"><stop stop-color="#24674e"/><stop offset="1" stop-color="#0b2d23"/></linearGradient><linearGradient id="route" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f3f7df"/><stop offset="1" stop-color="#c8e7c5"/></linearGradient><filter id="shadow" x="-25%" y="-25%" width="150%" height="165%"><feDropShadow dx="0" dy="16" stdDeviation="15" flood-color="#09271d" flood-opacity=".22"/></filter></defs>
+<rect x="80" y="80" width="864" height="864" rx="192" fill="url(#tile)" filter="url(#shadow)"/>
+<rect x="84" y="84" width="856" height="856" rx="188" fill="none" stroke="#b5dcc0" stroke-opacity=".16" stroke-width="3"/>
+<path d="M300 720 L476 328 Q512 248 548 328 L724 720 M372 560 H652" fill="none" stroke="#061d15" stroke-opacity=".24" stroke-width="90" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 9)"/>
+<path d="M300 720 L476 328 Q512 248 548 328 L724 720 M372 560 H652" fill="none" stroke="url(#route)" stroke-width="76" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="300" cy="720" r="55" fill="#e6f3d6"/><circle cx="300" cy="720" r="19" fill="#1a523e"/>
+<circle cx="724" cy="720" r="55" fill="#e6f3d6"/><circle cx="724" cy="720" r="19" fill="#123c2e"/>
+<circle cx="512" cy="307" r="54" fill="#f1f6df"/><circle cx="512" cy="307" r="18" fill="#205e47"/>
+<circle cx="595" cy="560" r="44" fill="#dcb978" stroke="#153e2e" stroke-width="10"/>
+</svg>
